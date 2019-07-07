@@ -125,4 +125,4 @@ if (message.content.startsWith(adminprefix + 'setava')) {
 });
 
 
-client.login(process.env.MBdlx1P4HmWGCmoOwFPiqWfWERtvv0Nx);
+client.login("NTk3NDY3MDc2NjU4OTg3MDE4.XSIg2w.XbB9re2jy4_L0x9NQv6EqISKJZE");
